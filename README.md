@@ -6,8 +6,8 @@ A simple task manager built with React that allows you to create, edit, and dele
 
 ## Demo
 
-![tasks](https://i.ibb.co/KJFxTML/Screenshot-1.png)
-![tasksDescription](https://i.ibb.co/BVFwH48q/Screenshot-2.png)
+<img src="https://i.ibb.co/KJFxTML/Screenshot-1.png" width="500"/>
+<img src="https://i.ibb.co/BVFwH48q/Screenshot-2.png" width="500"/>
 
 You can view the live application by clicking [here](https://tasks-react-black.vercel.app/).
 
